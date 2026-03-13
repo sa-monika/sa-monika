@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Sumaiya Akter Monika
+# Hi 👋, I'm Sumaiya Akter Monika
 #### MERN Stack Developer
 
 Skills:   REACT / JavaScript / HTML / CSS / Node.js / Express.js / MongoDB
