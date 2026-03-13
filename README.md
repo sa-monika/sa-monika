@@ -1,8 +1,10 @@
-
 <img width="1200" height="400" alt="Frame 5" src="https://github.com/user-attachments/assets/20c78a37-d1fb-49ee-9038-4712985ed1b8" />
 
+
 <h1 align="center">Hi 👋, I'm Sumaiya Akter Monika</h1>
-## MERN Stack Developer
+
+<h3 align="center">MERN Stack Developer</h3>
+
 
 Skills:   REACT / JavaScript / HTML / CSS / Node.js / Express.js / MongoDB
 
