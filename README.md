@@ -1,3 +1,6 @@
+
+<img width="1200" height="400" alt="Frame 5" src="https://github.com/user-attachments/assets/20c78a37-d1fb-49ee-9038-4712985ed1b8" />
+
 # Hi 👋, I'm Sumaiya Akter Monika
 ## MERN Stack Developer
 
