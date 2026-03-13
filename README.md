@@ -1,20 +1,26 @@
-# [!Sumaiya Akter Monika's Profile Banner](https://raw.githubusercontent.com/username/repository-name/branch-name/path/to/banner.png)
+### Hi there 👋, I'm Sumaiya Akter Monika
+#### MERN Stack Developer
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/username/repository-name/branch-name/path/to/banner.png" alt="Sumaiya Akter Monika - MERN Stack Developer Banner" width="100%">
-</div>
+Skills:   REACT / JavaScript / HTML / CSS / Node.js / Express.js / MongoDB
 
-# Sumaiya Akter Monika
-### A MERN Stack Developer
+- 🔭 I’m currently working on React.js, Next.js, JavaScript for frontend development and using Node.js, Express.js, MongoDB for the backend 
+- 🌱 I’m currently learning Typescript 
+- 💬 Ask me about (React, Next, Node, Express, MongoDB) 
+- 📫 How to reach me: 13monika04@gmail.com 
 
-#### Tech Stack
-[![React.js](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
-[![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 
-#### Contact Me
-[![Email](https://img.shields.io/badge/Email-13monika04@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:13monika04@gmail.com)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sa-monika)  
 
-# Hi 👋, I'm Sumaiya Akter Monika
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=sa-monika)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sa-monika)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sa-monika&show_icons=true)  
+
+![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/sa-monika/contributions?format=svg&private=false)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=sa-monika)  
+
+
