@@ -75,11 +75,7 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=sa-monika&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sa-monika&label=Profile%20views&color=0e75b6&style=flat" alt="sa-monika" /> </p>
-
-[![](https://visitcount.itsvg.in/api?id=sa-monika&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sa-monika&show_icons=true&locale=en&layout=compact" alt="sa-monika" /></p>
 
@@ -87,23 +83,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sa-monika&" alt="sa-monika" /></p>
 
-.......
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sa-monika&label=Profile%20views&color=0e75b6&style=flat" alt="sa-monika" /> </p>
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sa-monika&show_icons=true&theme=dracula" height="150"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sa-monika&layout=compact&theme=dracula" height="150"/>
-
-</div>
-
----
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sa-monika/sa-monika/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sa-monika/sa-monika/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/sa-monika/sa-monika/output/pacman-contribution-graph.svg">
-</picture>
+[![](https://visitcount.itsvg.in/api?id=sa-monika&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
