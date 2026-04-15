@@ -1,4 +1,8 @@
-<img width="1200" height="400" alt="Frame 5" src="https://github.com/user-attachments/assets/20c78a37-d1fb-49ee-9038-4712985ed1b8" />
+
+
+
+<img width="1646" height="592" alt="Gemini_Generated_Image_7nkyc17nkyc17nky" src="https://github.com/user-attachments/assets/9eb25def-0565-48d8-bd84-ff306eab96ba" />
+
 
 
 <h1 align="center">Hi 👋, I'm Sumaiya Akter Monika</h1>
