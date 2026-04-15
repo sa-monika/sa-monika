@@ -5,8 +5,6 @@
 
 <h2 align="center" >MERN Stack Developer</h2>
 
-
-
 <br>
 
 🔭 I’m currently working on React.js, Next.js, JavaScript for frontend development and using Node.js, Express.js, MongoDB for the backend<br>🌱 I’m currently learning Typescript<br>💬 Ask me about (React, Next, Node, Express, MongoDB)<br>📫 How to reach me: 13monika04@gmail.com <br>
@@ -67,25 +65,10 @@
 
 
 ## 📊  GITHUB STATISTICS & ANALYSIS:
-![](https://github-readme-stats.vercel.app/api?username=sa-monika&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sa-monika&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sa-monika&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sa-monika&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sa-monika&show_icons=true&locale=en&layout=compact" alt="sa-monika" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sa-monika&show_icons=true&locale=en" alt="sa-monika" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sa-monika&" alt="sa-monika" /></p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sa-monika&label=Profile%20views&color=0e75b6&style=flat" alt="sa-monika" /> </p>
-
-[![](https://visitcount.itsvg.in/api?id=sa-monika&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sa-monika&" alt="sa-monika" /></p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
